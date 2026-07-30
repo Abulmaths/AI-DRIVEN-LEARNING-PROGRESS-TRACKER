@@ -37,7 +37,7 @@ The **AI-Driven Learning Progress Tracker** is a comprehensive data-driven solut
 
 ## 🎥 Video Testimonial & Demo
 *A 1–3 minute video presentation explaining the project methodology, key insights, and Power BI dashboard demonstration.*  
-* **Video Link:** [Link Will Be Inserted Here]
+* **Video Link:** https://www.linkedin.com/posts/abulkairi-lawan-a8b883332_dataanalysis-powerbi-3mtt-activity-7488493214623076353-YvcD?utm_source=share&utm_medium=member_android&rcm=ACoAAFPHYksBU3ig1oFY-VsgKg-bnueIdFo0Q8k
 
 ---
 
